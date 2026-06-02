@@ -290,7 +290,7 @@ Total number of cycles: 8
 
 ### Project Structure
 ```text
-pipelined_processor/
+Pipelined-RISC-Processor-Verilog/
 ├── README.md                         # This file
 ├── ENCS4370_Project2_Specification.pdf
 ├── Pipelined_Processor_Report.pdf
@@ -316,7 +316,7 @@ pipelined_processor/
 └── simulation/
     ├── datapath_simulation.vcd       # Exported waveform data
     └── waveforms/                    # Execution trace captures for case 1
-
+```
 ### Naming Conventions
 
 - **Signals**: Lower case with underscores (e.g., `clk`, `rst_n`, `alu_out`)
