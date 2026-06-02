@@ -291,9 +291,10 @@ Total number of cycles: 8
 ### Project Structure
 ```text
 Pipelined-RISC-Processor-Verilog/
-├── README.md                         # This file
+├── README.md                         
 ├── ENCS4370_Project2_Specification.pdf
 ├── Pipelined_Processor_Report.pdf
+├── Full_Datapath.pdf
 ├── src/
 │   ├── ALU.v                         # Arithmetic Logic Unit
 │   ├── components.v                  # Common components
