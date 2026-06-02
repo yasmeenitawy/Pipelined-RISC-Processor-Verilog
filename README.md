@@ -289,6 +289,7 @@ Total number of cycles: 8
 ## Code Organization & Modularity
 
 ### Project Structure
+```text
 pipelined_processor/
 ├── README.md                         # This file
 ├── ENCS4370_Project2_Specification.pdf
@@ -314,7 +315,7 @@ pipelined_processor/
 │   └── Clock.v                 
 └── simulation/
     ├── datapath_simulation.vcd       # Exported waveform data
-    └── waveforms/         # Execution trace captures for case 1
+    └── waveforms/                    # Execution trace captures for case 1
 
 ### Naming Conventions
 
